@@ -1,0 +1,11 @@
+C:\Users\keity\OneDrive\Documentos\GitHub\estudos-api\CrossCutting\bin\Debug\net8.0\Crosscutting.deps.json
+C:\Users\keity\OneDrive\Documentos\GitHub\estudos-api\CrossCutting\bin\Debug\net8.0\Crosscutting.dll
+C:\Users\keity\OneDrive\Documentos\GitHub\estudos-api\CrossCutting\bin\Debug\net8.0\Crosscutting.pdb
+C:\Users\keity\OneDrive\Documentos\GitHub\estudos-api\CrossCutting\obj\Debug\net8.0\Crosscutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keity\OneDrive\Documentos\GitHub\estudos-api\CrossCutting\obj\Debug\net8.0\Crosscutting.AssemblyInfoInputs.cache
+C:\Users\keity\OneDrive\Documentos\GitHub\estudos-api\CrossCutting\obj\Debug\net8.0\Crosscutting.AssemblyInfo.cs
+C:\Users\keity\OneDrive\Documentos\GitHub\estudos-api\CrossCutting\obj\Debug\net8.0\Crosscutting.csproj.CoreCompileInputs.cache
+C:\Users\keity\OneDrive\Documentos\GitHub\estudos-api\CrossCutting\obj\Debug\net8.0\Crosscutting.dll
+C:\Users\keity\OneDrive\Documentos\GitHub\estudos-api\CrossCutting\obj\Debug\net8.0\refint\Crosscutting.dll
+C:\Users\keity\OneDrive\Documentos\GitHub\estudos-api\CrossCutting\obj\Debug\net8.0\Crosscutting.pdb
+C:\Users\keity\OneDrive\Documentos\GitHub\estudos-api\CrossCutting\obj\Debug\net8.0\ref\Crosscutting.dll
