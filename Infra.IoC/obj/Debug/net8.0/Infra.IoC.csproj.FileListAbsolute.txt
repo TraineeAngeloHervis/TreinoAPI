@@ -1,0 +1,17 @@
+C:\Users\keity\OneDrive\Documentos\GitHub\estudos-api\Infra.IoC\bin\Debug\net8.0\Infra.IoC.deps.json
+C:\Users\keity\OneDrive\Documentos\GitHub\estudos-api\Infra.IoC\bin\Debug\net8.0\Infra.IoC.dll
+C:\Users\keity\OneDrive\Documentos\GitHub\estudos-api\Infra.IoC\bin\Debug\net8.0\Infra.IoC.pdb
+C:\Users\keity\OneDrive\Documentos\GitHub\estudos-api\Infra.IoC\bin\Debug\net8.0\Crosscutting.dll
+C:\Users\keity\OneDrive\Documentos\GitHub\estudos-api\Infra.IoC\bin\Debug\net8.0\Domain.dll
+C:\Users\keity\OneDrive\Documentos\GitHub\estudos-api\Infra.IoC\bin\Debug\net8.0\Domain.pdb
+C:\Users\keity\OneDrive\Documentos\GitHub\estudos-api\Infra.IoC\bin\Debug\net8.0\Crosscutting.pdb
+C:\Users\keity\OneDrive\Documentos\GitHub\estudos-api\Infra.IoC\obj\Debug\net8.0\Infra.IoC.csproj.AssemblyReference.cache
+C:\Users\keity\OneDrive\Documentos\GitHub\estudos-api\Infra.IoC\obj\Debug\net8.0\Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keity\OneDrive\Documentos\GitHub\estudos-api\Infra.IoC\obj\Debug\net8.0\Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\keity\OneDrive\Documentos\GitHub\estudos-api\Infra.IoC\obj\Debug\net8.0\Infra.IoC.AssemblyInfo.cs
+C:\Users\keity\OneDrive\Documentos\GitHub\estudos-api\Infra.IoC\obj\Debug\net8.0\Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\keity\OneDrive\Documentos\GitHub\estudos-api\Infra.IoC\obj\Debug\net8.0\Infra.IoC.csproj.Up2Date
+C:\Users\keity\OneDrive\Documentos\GitHub\estudos-api\Infra.IoC\obj\Debug\net8.0\Infra.IoC.dll
+C:\Users\keity\OneDrive\Documentos\GitHub\estudos-api\Infra.IoC\obj\Debug\net8.0\refint\Infra.IoC.dll
+C:\Users\keity\OneDrive\Documentos\GitHub\estudos-api\Infra.IoC\obj\Debug\net8.0\Infra.IoC.pdb
+C:\Users\keity\OneDrive\Documentos\GitHub\estudos-api\Infra.IoC\obj\Debug\net8.0\ref\Infra.IoC.dll
