@@ -9,3 +9,15 @@ C:\Users\keity\OneDrive\Documentos\GitHub\estudos-api\CrossCutting\obj\Debug\net
 C:\Users\keity\OneDrive\Documentos\GitHub\estudos-api\CrossCutting\obj\Debug\net8.0\refint\Crosscutting.dll
 C:\Users\keity\OneDrive\Documentos\GitHub\estudos-api\CrossCutting\obj\Debug\net8.0\Crosscutting.pdb
 C:\Users\keity\OneDrive\Documentos\GitHub\estudos-api\CrossCutting\obj\Debug\net8.0\ref\Crosscutting.dll
+C:\Users\angelo.hervis\Documents\GitHub\TreinoAPI\CrossCutting\bin\Debug\net8.0\Crosscutting.deps.json
+C:\Users\angelo.hervis\Documents\GitHub\TreinoAPI\CrossCutting\bin\Debug\net8.0\Crosscutting.dll
+C:\Users\angelo.hervis\Documents\GitHub\TreinoAPI\CrossCutting\bin\Debug\net8.0\Crosscutting.pdb
+C:\Users\angelo.hervis\Documents\GitHub\TreinoAPI\CrossCutting\obj\Debug\net8.0\Crosscutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angelo.hervis\Documents\GitHub\TreinoAPI\CrossCutting\obj\Debug\net8.0\Crosscutting.AssemblyInfoInputs.cache
+C:\Users\angelo.hervis\Documents\GitHub\TreinoAPI\CrossCutting\obj\Debug\net8.0\Crosscutting.AssemblyInfo.cs
+C:\Users\angelo.hervis\Documents\GitHub\TreinoAPI\CrossCutting\obj\Debug\net8.0\Crosscutting.csproj.CoreCompileInputs.cache
+C:\Users\angelo.hervis\Documents\GitHub\TreinoAPI\CrossCutting\obj\Debug\net8.0\Crosscutting.sourcelink.json
+C:\Users\angelo.hervis\Documents\GitHub\TreinoAPI\CrossCutting\obj\Debug\net8.0\Crosscutting.dll
+C:\Users\angelo.hervis\Documents\GitHub\TreinoAPI\CrossCutting\obj\Debug\net8.0\refint\Crosscutting.dll
+C:\Users\angelo.hervis\Documents\GitHub\TreinoAPI\CrossCutting\obj\Debug\net8.0\Crosscutting.pdb
+C:\Users\angelo.hervis\Documents\GitHub\TreinoAPI\CrossCutting\obj\Debug\net8.0\ref\Crosscutting.dll
